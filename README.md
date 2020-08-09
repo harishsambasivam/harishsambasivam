@@ -1,14 +1,19 @@
 <h2> Hi there, I'm Harish Sambasivam <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-It's three years since we first met and can't imagine my life without you(JavaScript). Meeting You is the best thing in my life. Everyday I fall in love with You over again and everyday You make me happy. I love You JavaScript🖤     
+
+<br />
+It's three years since we first met and can't imagine my life without you(JavaScript). Meeting You is the best thing in my life. Everyday I fall in love with You over again and everyday You make me happy. I love You JavaScript🖤    
+<br />
 
 🌱 I’m currently learning to remove software chaos, one at a time.
      
 👯 I’m looking to collaborate on open source projects using JavaScript.    
        
 🥅 2020 Goals: Contribute more to Open Source projects, improve full stack skills.
+
 <br />
 <br />
+
 ### Languages:                                                         
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
