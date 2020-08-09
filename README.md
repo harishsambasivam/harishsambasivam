@@ -61,8 +61,7 @@ It's three years since we first met and can't imagine my life without you(JavaSc
 <br />
 <br />
 
-![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
-<br />
+
 
 
 Made with ❤, by Harish Sambasivam
