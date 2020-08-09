@@ -1,5 +1,5 @@
-<h2> Hi there 👋, I'm Harish Sambasivam <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> </h1>
-<img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<h2> Hi there, I'm Harish Sambasivam <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 It's three years since we first met and can't imagine my life without you(JavaScript). Meeting You is the best thing in my life. Everyday I fall in love with You over again and everyday You make me happy. I love You JavaScript🖤     
 
 🌱 I’m currently learning to remove software chaos, one at a time.
