@@ -57,4 +57,9 @@ It's three years since we first met and can't imagine my life without you(JavaSc
 <br />         
 <br />
 <br />
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://www.linkedin.com/in/harishsambasivam/">reach out</a> and introduce yourself (don’t just say hi, tell me about yourself)</b> 😊 💜</em>
+<br />
+<br />
+
 Made with ❤, by Harish Sambasivam
