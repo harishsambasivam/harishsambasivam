@@ -15,6 +15,8 @@ It's three years since we first met and can't imagine my life without you(JavaSc
 
 🍎  Beginner mindset (open to learning) 
 
+😄 Pronouns: Coder, Leader and Kind Hearted
+
 <br />
 <br />
 
