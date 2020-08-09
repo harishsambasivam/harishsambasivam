@@ -13,6 +13,8 @@ It's three years since we first met and can't imagine my life without you(JavaSc
        
 🥅 2020 Goals: Contribute more to Open Source projects, improve full stack skills.
 
+🍎  Beginner mindset (open to learning) 
+
 <br />
 <br />
 
