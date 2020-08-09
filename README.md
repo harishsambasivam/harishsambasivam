@@ -63,7 +63,7 @@ It's three years since we first met and can't imagine my life without you(JavaSc
 <br />         
 <br />
 
-**Fun fact: I once answered the world's oldest question with a single line of JavaScript**
+⚡ Fun fact: I once answered the world's oldest question with a single line of JavaScript
 
 ```javascript
 // Which came first: the chicken or the egg?
