@@ -7,7 +7,7 @@ It's three years since we first met and can't imagine my life without you(JavaSc
 <br />
 
 
-🌱 I’m currently learning to remove software chaos, one at a time.
+🌱 I’m currently learning correct strategies to remove software chaos.
      
 👯 I’m looking to collaborate on open source projects using JavaScript.    
        
