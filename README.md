@@ -11,7 +11,7 @@ It's three years since we first met and can't imagine my life without you(JavaSc
      
 👯 I’m looking to collaborate on open source projects using JavaScript.    
        
-🥅 2020 Goals: Contribute more to Open Source projects, improve full stack skills.
+🥅 2021 Goals: Contribute more to Open Source projects, improve full stack skills.
 
 🍎  Beginner mindset (open to learning) 
 
