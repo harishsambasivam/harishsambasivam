@@ -66,7 +66,7 @@ It's four years since we first met and can't imagine my life without you. Meetin
 // Which came first: the chicken or the egg?
 console.log(["🥚", "🐣", "🐥", "🐔"].sort())
 
->>> ["🐔", "🐣", "🐥", "🥚"];
+>>> ["🐔", "🥚", "🐣", "🐥"];
 ```
 <br />
 <br />
