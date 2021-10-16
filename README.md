@@ -9,7 +9,7 @@ It's four years since we first met and can't imagine my life without you. Meetin
 
 🌱 I’m currently learning correct strategies to remove software chaos.
      
-👯 I’m looking to collaborate on open source projects using JavaScript.    
+👯 I’m looking to collaborate on open source projects using nodeJs.    
        
 🥅 2021 Goals: Contribute more to Open Source projects, improve full stack skills.
 
