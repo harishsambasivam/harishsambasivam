@@ -2,16 +2,19 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <br />
-It's four years since we first met and can't imagine my life without you. Meeting You is the best thing in my life. Everyday I fall in love with You over again and everyday You make me happy... JavaScript🖤    
+A software engineer by profession and a learner by heart. Learning new things every day, that's the purpose now. Giving back to the community remains the aim 🎯
+<br />  <br />             
+
+> World-class products can be built anywhere. Even if that means you're working from a farm in a remote village 💚
 <br />
 <br />
 
 
-🌱 I’m currently learning correct strategies to remove software chaos.
+🌱 Building products from home 
      
 👯 I’m looking to collaborate on open source projects using nodeJs.    
        
-🥅 2021 Goals: Contribute more to Open Source projects, improve full stack skills.
+🥅 2022 Goals: Contribute more to Open Source projects, explore cryptography and web 3.0
 
 🍎  Beginner mindset (open to learning) 
 
