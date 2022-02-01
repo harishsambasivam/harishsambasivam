@@ -23,12 +23,6 @@ A software engineer by profession and a learner by heart. Learning new things ev
 <br />
 <br />
 
- ### Connect with me:                                                                                                                   
- 
-[<img align="left" alt="harishsambasivam.netlify.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://harishsambasivam.netlify.app)
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/harishsambasivam/)
-<br />         
-<br />
 
 ⚡ Fun fact: I once answered the world's oldest question with a single line of JavaScript
 
