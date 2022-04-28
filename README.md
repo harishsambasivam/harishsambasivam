@@ -9,7 +9,7 @@ A software engineer by profession and a learner by heart. Learning new things ev
 <br />
 
 
-🌱 Building software from home 
+🌱 Building software's from home 
      
 👯 I’m looking to collaborate on open source projects using nodeJs.    
        
