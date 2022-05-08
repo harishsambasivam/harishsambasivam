@@ -11,11 +11,11 @@ A software engineer by profession and a learner by heart. Learning new things ev
 
 🌱 Building software's from home 
      
-👯 I’m looking to collaborate on open source projects using nodeJs.    
+👯 Looking to collaborate on open source projects using nodeJs.    
        
-🥅 2022 Goals: Contribute more to Open Source projects, explore cryptography and web 3.0
+🥅 2022 Goals: Contribute more to Open Source projects, explore system design and full stack development.
 
-🍎  Beginner mindset (open to learning) 
+🍎 Beginner mindset (open to learning) 
 
 😄 Pronouns: Coder, Leader and Kind Hearted
 
