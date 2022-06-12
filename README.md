@@ -9,19 +9,19 @@ A software engineer by profession and a learner by heart. Learning new things ev
 <br />
 
 
-🌱 Building software's from home 
+🌱 Love to build software's sitting in my home  
      
 👯 Looking to collaborate on open source projects using nodeJs.    
        
 🥅 2022 Goals: Contribute more to Open Source projects, explore system design and full stack development.
 
-🍎 Beginner mindset (open to learning) 
+✅ Beginner mindset (open to learning) 
 
 <br />
 <br />
 
 
-⚡ Fun fact: I once answered the world's oldest question with a single line of JavaScript
+⚡ Fun fact: I once answered the world's oldest question with a single line of JavaScript 🙈🙈🙈
 
 ```javascript
 // Which came first: the chicken or the egg?
