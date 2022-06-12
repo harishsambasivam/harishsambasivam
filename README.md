@@ -17,8 +17,6 @@ A software engineer by profession and a learner by heart. Learning new things ev
 
 🍎 Beginner mindset (open to learning) 
 
-😄 Pronouns: Coder, Leader and Kind Hearted
-
 <br />
 <br />
 
