@@ -11,7 +11,7 @@ A software engineer by profession and a learner by heart. Learning new things ev
      
 👯 Looking to collaborate on open source projects using nodeJs.    
        
-🥅 2022 Goals: Contribute more to Open Source projects, explore system design and full stack development.
+🥅 2023 Goals: Contribute more to Open Source projects, explore system design and full stack development.
 
 ✅ Beginner mindset (open to learning) 
 
