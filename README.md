@@ -9,7 +9,7 @@ A software engineer by profession and a learner by heart. Learning new things ev
 <br />
 
      
-👯 Looking to collaborate on open source projects using nodeJs.    
+👯 Looking to collaborate on open source projects using reactJS, nodeJS.    
        
 🥅 2023 Goals: Contribute more to Open Source projects, explore system design and full stack development.
 
