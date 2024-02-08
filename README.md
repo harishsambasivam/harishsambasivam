@@ -4,16 +4,16 @@
 A software engineer by profession and a learner by heart. Learning new things every day, that's the purpose now. Giving back to the community remains the aim 🎯
 <br />  <br />             
 
-> World-class software's can be built anywhere. Even if that means you're working from a farm in a remote village 💚
+> World-class software's can be built anywhere. Even if that means you're working from a village 💚
 <br />
 <br />
 
      
 👯 Looking to collaborate on open source projects using reactJS, nodeJS.    
        
-🥅 2023 Goals: Contribute more to Open Source projects, explore system design and full stack development.
+🥅 2024 Goals: Contribute more to Open Source projects, explore system design and full stack development.
 
-✅ Beginner mindset (open to learning) 
+✅ open to learning
 
 <br />
 <br />
