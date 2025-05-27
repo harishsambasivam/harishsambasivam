@@ -4,7 +4,6 @@ As a software engineer passionate about building resilient, scalable backend sys
 
 > Great software isn’t bound by location — it can be built anywhere, even from a quiet village 💚
 
----
 
 👯 Currently open to collaborating on open source projects using ReactJS and NodeJS, with a focus on real-world impact and scalability.
 
@@ -15,10 +14,10 @@ As a software engineer passionate about building resilient, scalable backend sys
 
 ✅ Always eager to learn, adapt, and grow.
 
----
+
 
 ⚡ **Fun fact:** When faced with bugs, I prefer to debug them like a pro — by turning it off and on again. Sometimes the oldest tricks are the best!
 
----
+
 
 Made with ❤ by Harish Sambasivam
