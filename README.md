@@ -1,28 +1,24 @@
 ## Hi there, I'm Harish
 
-A seasoned software engineer and lifelong learner. I’m passionate about building reliable, scalable systems and constantly expanding my knowledge. Giving back to the community is a core part of my journey 🎯
+As a software engineer passionate about building resilient, scalable backend systems, I’m always exploring new ways to improve infrastructure and observability. Every day is a chance to deepen my understanding of distributed systems and system design — the foundation of reliable software.
 
-> World-class software can be built anywhere — even from a quiet village 💚
-
----
-
-👯 I’m eager to collaborate on open source projects, primarily with ReactJS and NodeJS.
-
-🥅 **2024 Goals:** Deepen expertise in system design, contribute meaningfully to open source, and advance full-stack development skills.
-
-✅ Always open to new challenges and learning opportunities.
+> Great software isn’t bound by location — it can be built anywhere, even from a quiet village 💚
 
 ---
 
-⚡ **Fun fact:** I once answered the world’s oldest question with a single line of JavaScript 🙈🙈🙈
+👯 Currently open to collaborating on open source projects using ReactJS and NodeJS, with a focus on real-world impact and scalability.
 
-```javascript
-// Which came first: the chicken or the egg?
-console.log(["🥚", "🐣", "🐥", "🐔"].sort())
+🥅 **2025 Goals:**  
+- Advance expertise in cloud-native architecture and observability  
+- Contribute to impactful open source tools  
+- Build full-stack solutions that scale gracefully  
 
->>> ["🐔", "🥚", "🐣", "🐥"];
+✅ Always eager to learn, adapt, and grow.
 
-<br />
-<br />
+---
 
-Made with ❤, by Harish Sambasivam
+⚡ **Fun fact:** When faced with bugs, I prefer to debug them like a pro — by turning it off and on again. Sometimes the oldest tricks are the best!
+
+---
+
+Made with ❤ by Harish Sambasivam
