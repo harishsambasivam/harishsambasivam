@@ -1,32 +1,27 @@
-<h2> Hi there, I'm Harish  </h1>
-<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
-<br />
-A software engineer by profession and a learner by heart. Learning new things every day, that's the purpose now. Giving back to the community remains the aim 🎯
-<br />  <br />             
+## Hi there, I'm Harish
 
-> World-class software's can be built anywhere. Even if that means you're working from a village 💚
-<br />
-<br />
+A seasoned software engineer and lifelong learner. I’m passionate about building reliable, scalable systems and constantly expanding my knowledge. Giving back to the community is a core part of my journey 🎯
 
-     
-👯 Looking to collaborate on open source projects using reactJS, nodeJS.    
-       
-🥅 2024 Goals: Contribute more to Open Source projects, explore system design and full stack development.
+> World-class software can be built anywhere — even from a quiet village 💚
 
-✅ open to learning
+---
 
-<br />
-<br />
+👯 I’m eager to collaborate on open source projects, primarily with ReactJS and NodeJS.
 
+🥅 **2024 Goals:** Deepen expertise in system design, contribute meaningfully to open source, and advance full-stack development skills.
 
-⚡ Fun fact: I once answered the world's oldest question with a single line of JavaScript 🙈🙈🙈
+✅ Always open to new challenges and learning opportunities.
+
+---
+
+⚡ **Fun fact:** I once answered the world’s oldest question with a single line of JavaScript 🙈🙈🙈
 
 ```javascript
 // Which came first: the chicken or the egg?
 console.log(["🥚", "🐣", "🐥", "🐔"].sort())
 
 >>> ["🐔", "🥚", "🐣", "🐥"];
-```
+
 <br />
 <br />
 
